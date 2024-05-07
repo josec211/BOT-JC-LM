@@ -13,11 +13,11 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["56974513824", '☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆', false],
-["51948705559", '𝙊𝙬𝙣𝙚𝙧', true],  
-["5217442363122", '𝑖𝑍𝑖', true],
-["5217294888993"], ["5217445404792"],
-["5492964650915"]]
+["50493108279", '☆𝓑𝓞𝓣-𝓙𝓒-𝓛𝓜☆', false],
+["50493108279", '𝐎𝐖𝐍𝐄𝐑-𝐉𝐎𝐒𝐄 𝐂', true],  
+["50493544106", '𝐎𝐖𝐍𝐄𝐑 𝟐-𝐋𝐀𝐃𝐘 𝐌𝐀𝐑𝐈', true],
+["50493108279"], ["50493108279"],
+["50493544106"]]
 
 global.mods = []
 global.prems = []
@@ -114,12 +114,12 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51948705559", '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 💻', 1], 
-["5217442363122", '𝑖𝑍𝑖 👻', 1],  
-["5493513446678", 'Martin Batman', 1],
-["5218771647787", 'IssSG', 1],
-["51948273587", 'Katashi Two', 1],
-["5492964650915", '♥️🎩⚠︎    シ︎𝑾𝒊𝒍𝖘𝒐𝒏シ︎   ⚠︎🎩♥️', 1]]
+[""50493108279", '𝐎𝐖𝐍𝐄𝐑-𝐉𝐎𝐒𝐄 𝐂', 1], 
+["50493544106", '𝐎𝐖𝐍𝐄𝐑 𝟐-𝐋𝐀𝐃𝐘 𝐌𝐀𝐑𝐈', 1],  
+["50493108279", '𝐎𝐖𝐍𝐄𝐑-𝐉𝐎𝐒𝐄 𝐂', 1],
+["50493544106", '𝐎𝐖𝐍𝐄𝐑 𝟐-𝐋𝐀𝐃𝐘 𝐌𝐀𝐑𝐈', 1],
+["50493108279", '𝐎𝐖𝐍𝐄𝐑-𝐉𝐎𝐒𝐄 𝐂', 1],
+["50493108279", '𝐎𝐖𝐍𝐄𝐑-𝐉𝐎𝐒𝐄 𝐂', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -127,8 +127,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆"
-global.author = "✥𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂✥"
+global.packname = "☆𝓑𝓞𝓣-𝓙𝓒-𝓛𝓜☆"
+global.author = "⋆——————✧❦𝐉𝐎𝐒𝐄 𝐂-𝐋𝐀𝐃𝐘 𝐌𝐀𝐑𝐈❦✧——————⋆"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -136,36 +136,36 @@ global.author = "✥𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊�
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.0.1"
 global.vsJB = "2.5 (Beta)"
-global.gt = "☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆"
+global.gt = "☆𝓑𝓞𝓣-𝓙𝓒-𝓛𝓜☆"
 
-global.yt = "https://youtube.com/@KatashiFukushima"
-global.yt2 = "https://www.youtube.com/shorts/ZLJYDUM6vSY"
-global.ig = "https://www.instagram.com/katashi_fukushima"
-global.md = "https://github.com/KatashiFukushima/KatashiBot-MD"
-global.fb = "https://www.facebook.com/KatashiFukushimaF"
-global.tk = "https://www.tiktok.com/@katashi_fukushima"
-global.ths = "https://www.threads.net/@katashi_fukushima"
-global.paypal = 'https://paypal.me/KatashiF'
-global.asistencia = 'Wa.me/51948705559' //Contacto
-global.bot = 'wa.me/51999999999'
+global.yt = "https://www.youtube.com/channel/UC5vBEv9EylM6VCm2k2BCY_g"
+global.yt2 = "https://www.youtube.com/channel/UC5vBEv9EylM6VCm2k2BCY_g"
+global.ig = "h'https://www.youtube.com/"
+global.md = "https://github.com/josec211/FREE"
+global.fb = "h'https://www.youtube.com/"
+global.tk = "h'https://www.youtube.com/"
+global.ths = "'https://www.youtube.com/"
+global.paypal = 'https://paypal.me/JOSEVIPOFICIALYT?country.x=HN&locale.x=es_XC'
+global.asistencia = 'Wa.me/50493108279' //Contacto
+global.bot = 'wa.me/50493108279'
 
-global.nna = 'https://www.atom.bio/katashifukushima' // Cuentas
-global.nn2 = 'https://instabio.cc/KatashiUwU' // Cuentas 2
-global.nna2 = 'https://chat.whatsapp.com/LS9A8ItcmfiHm1ugivAjYy' // Grupo oficial de KatashiBot
-global.nn = 'https://chat.whatsapp.com/LS9A8ItcmfiHm1ugivAjYy' // Grupo oficial de KatashiBot
-global.nnn = 'https://chat.whatsapp.com/E9J01d9ExLVLy3C8IQEPjP' // Grupo ☆𝑨𝒏𝒊𝒎𝒆♡𝑨𝒎𝒊𝒔𝒕𝒂𝒅♡
-global.nnnt = 'https://chat.whatsapp.com/Eagxuc4pwKyAN4spnkm8lW' // PapuCity 2.5 resurrección
-global.nnntt = 'https://chat.whatsapp.com/EQHMweZI9nmIrA283eYK5i' // Grupo de Stickers
-global.nnnttt = 'https://chat.whatsapp.com/CciFSHhsYxd9TqW2tZhhZx' // Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/Ej5AUrpmYnJKYtEa6YMwK6' // Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/I9DsG6ABKer27NbW01Nl39' // Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/BngbJC3aBVhF5KjoaawiT1' // Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/KQtWZDVfosTKbheIlndLBN' // Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/HXOGzELFOVXFM1KrSoKdqH' // MULTI - BOTS
-global.nnnttt6 = 'https://chat.whatsapp.com/KNFk4om8MR70h8t3fTSHea' // A.T.M.M
-global.channel1 = 'https://whatsapp.com/channel/0029Va8GeVFAO7REOj3qnW37'
-global.channel2 = 'https://whatsapp.com/channel/0029Va8GeVFAO7REOj3qnW37'
-global.channel3 = 'https://whatsapp.com/channel/0029Va8GeVFAO7REOj3qnW37'
+global.nna = 'https://www.youtube.com/' // Cuentas
+global.nn2 = 'https://www.youtube.com/' // Cuentas 2
+global.nna2 = ' https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // Grupo oficial de KatashiBot
+global.nn = ' https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // Grupo oficial de KatashiBot
+global.nnn = ' https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // Grupo ☆𝑨𝒏𝒊𝒎𝒆♡𝑨𝒎𝒊𝒔𝒕𝒂𝒅♡
+global.nnnt =  'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // PapuCity 2.5 resurrección
+global.nnntt = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // Grupo de Stickers
+global.nnnttt = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // MULTI - BOTS
+global.nnnttt6 = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy' // A.T.M.M
+global.channel1 = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy'
+global.channel2 = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy'
+global.channel3 = 'https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
@@ -190,14 +190,14 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆ : ✥𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂✥�"
-global.igfg = "☆𝕂𝕒𝕥𝕒𝕤𝕙𝕚-𝔹𝕠𝕥☆"
+global.wm = "☆☆𝓑𝓞𝓣-𝓙𝓒-𝓛𝓜☆ : ⋆——————✧❦𝐉𝐎𝐒𝐄 𝐂-𝐋𝐀𝐃𝐘 𝐌𝐀𝐑𝐈❦✧——————⋆"
+global.igfg = "☆𝓑𝓞𝓣-𝓙𝓒-𝓛𝓜☆"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "51948273587"
+global.nomorown = "50493108279"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
