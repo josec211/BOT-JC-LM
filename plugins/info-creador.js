@@ -4,19 +4,19 @@ let pp = gataImg.getRandom()
 const cat = `
 ╭ ❖ ── ✦ ── ✦ ── ❖ ──╗
 │
-│ ✥𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂✥ 
-│ *Wa.me/51948705559*
+│ 𝐉𝐎𝐒𝐄 𝐂 
+│ *Wa.me/50493108279*
 │
-│ 𝑖𝑍𝑖
-│ *wa.me/527442363122*
+│ 𝐋𝐀𝐃𝐘 𝐌𝐀𝐑𝐈
+│ *wa.me/50493544106*
 │
-│ シ︎𝑾𝒊𝒍𝖘𝒐𝒏シ︎
-│ *wa.me/5492964650915*
+│ 𝐉𝐎𝐒𝐄 𝐂
+│ *wa.me/50493108279*
 │
-│*GRUPO OFICIAL DE KATASHIBOT*
-│*https://chat.whatsapp.com/GOMZkMih9onHg80KsQfIFA*
+│*GRUPO OFICIAL*
+│*https://chat.whatsapp.com/LtTUopzTNqGJo8QSLUFrNy*
 │
-│𝙆𝘼𝙏𝘼𝙎𝙃𝙄 𝙁𝙐𝙆𝙐𝙎𝙃𝙄𝙈𝘼 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+│⋆——————✧❦𝐉𝐎𝐒𝐄 𝐂-𝐋𝐀𝐃𝐘 𝐌𝐀𝐑𝐈❦✧——————⋆ - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 │*${asistencia}*
 ╰─ ❖ ── ✦ ── ✦ ── ❖ ──╝`
 
