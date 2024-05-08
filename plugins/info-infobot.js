@@ -57,7 +57,7 @@ let old = performance.now()
 
 let info = `╭━━━━[ ${gt} ]━━━━━⬣
 ┃➥ *CREADOR | CREATOR*
-┃ღ *𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂*
+┃ღ *⋆——————✧❦𝐉𝐎𝐒𝐄 𝐂-𝐋𝐀𝐃𝐘 𝐌𝐀𝐑𝐈❦✧——————⋆*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
 ┃ღ *${ig}*
